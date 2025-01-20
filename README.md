@@ -1,4 +1,4 @@
-CONVERSOR DE MOEDAS
+## CONVERSOR DE MOEDAS
 
 <hr>
 
@@ -10,14 +10,12 @@ CONVERSOR DE MOEDAS
 
 - [Aplicação](#aplicação)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Tecnologias utilizadas](#ferramentas-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
-
-- [Desenvolvedores](#desenvolvedores)
-
+  
 ## Descrição do projeto 
 
 <p align="justify">
@@ -41,6 +39,25 @@ A interação com o usuário é textual, via console, e o menu disponibiliza 14 
 </div>
 
 ## Acesso ao projeto
+
+Você pode [acessar o código fonte do projeto](https://github.com/alessandrojorgesilva/conversor-de-moeda) ou [baixá-lo no formato .zip](https://github.com/alessandrojorgesilva/conversor-de-moeda/archive/refs/heads/main.zip).
+
+## Tecnologias Utilizadas
+
+- **Java 17**
+- **MySql**
+
+
+## Abrir e rodar o projeto
+
+1. **Clonar ou baixar o repositório**
+2. [Acesse o site da api ExchangeRate-API](https://www.exchangerate-api.com/) para ter acesso a sua  API Key gratuitamente
+3. **Crie uma variavel de ambiente com o nome EXCHANGERATE_APIKEY e o valor será a sua API Key***
+
+
+
+
+
 
 
 
