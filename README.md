@@ -10,7 +10,7 @@
 
 - [Aplicação](#aplicação)
 
-- [Tecnologias utilizadas](#ferramentas-utilizadas)
+- [Técnicas e tecnologias utilizadas](#Técnicas-e-tecnologias-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
@@ -19,7 +19,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-Bem-vindo ao Conversor de moeda, uma aplicação que faz parte do desáfio de conclusão do curso de Java e Orientação a Objetos da Alura em parceria com a Oracle Next Education. A oportunidade de aplicar conceitos importantes de Java, como consumo de API, herança, polimorfismo vistos ao longo do curso.
+Bem-vindo ao Conversor de moeda, uma aplicação que faz parte do desáfio de conclusão do curso de Java e Orientação a Objetos da Alura em parceria com a Oracle Next Education. A oportunidade de aplicar conceitos importantes de Java, consumo de API, herança e polimorfismo vistos ao longo do curso.
   
 A aplicação faz a conversão de valores entre moedas utilizando a API de taxas de câmbio ExchangeRate-API, ela fornece dados precisos e em tempo real e atualizado de cotações de moedas como o dólar, real, euro entre outras.
 A interação com o usuário é textual, via console, e o menu disponibiliza 14 opções de conversões.
@@ -42,17 +42,18 @@ A interação com o usuário é textual, via console, e o menu disponibiliza 14 
 
 Você pode [acessar o código fonte do projeto](https://github.com/alessandrojorgesilva/conversor-de-moeda) ou [baixá-lo no formato .zip](https://github.com/alessandrojorgesilva/conversor-de-moeda/archive/refs/heads/main.zip).
 
-## Tecnologias Utilizadas
+## Técnicas e tecnologias utilizadas
 
 - **Java 17**
-- **MySql**
-
+- **InteliJ IDEA**
+- **Paradigma de orientação a objetos**
 
 ## Abrir e rodar o projeto
 
-1. **Clonar ou baixar o repositório**
-2. [Acesse o site da api ExchangeRate-API](https://www.exchangerate-api.com/) para ter acesso a sua  API Key gratuitamente
-3. **Crie uma variavel de ambiente com o nome EXCHANGERATE_APIKEY e o valor será a sua API Key***
+1. **Clonar o repositório:**
+   ```git clone https://github.com/alessandrojorgesilva/conversor-de-moeda.git```.
+3. [Acesse o site da api ExchangeRate-API](https://www.exchangerate-api.com/) para ter acesso a sua  API Key gratuitamente.
+4. **Crie uma variável de ambiente com o nome EXCHANGERATE_APIKEY e o valor será a sua API Key.**
 
 
 
