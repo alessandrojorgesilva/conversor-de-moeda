@@ -47,6 +47,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/alessandrojor
 - **Java 17**
 - **InteliJ IDEA**
 - **Paradigma de orientação a objetos**
+- **Gson para manipulação de elementos .json**
 
 ## Abrir e rodar o projeto
 
@@ -54,6 +55,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/alessandrojor
    ```git clone https://github.com/alessandrojorgesilva/conversor-de-moeda.git```.
 3. [Acesse o site da api ExchangeRate-API](https://www.exchangerate-api.com/) para ter acesso a sua  API Key gratuitamente.
 4. **Crie uma variável de ambiente com o nome EXCHANGERATE_APIKEY e o valor será a sua API Key.**
+5. **Baixar e instalar no projeto a biblioteca Gson do Google para manipulação de elementos .json.**
 
 ## 📜 Licença
 
