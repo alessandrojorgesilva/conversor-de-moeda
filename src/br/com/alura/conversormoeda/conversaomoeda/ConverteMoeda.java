@@ -56,7 +56,7 @@ public class ConverteMoeda {
         JsonElement valorConvertido = json.get("conversion_result");
         System.out.println("O VALOR DE " + valor +" " + "[" + this.moedaBase + "]"
                 + " corresponde ao valor final de =>>> " + valorConvertido +
-                "[" + this.moedaRequerida + "]");
+                " [" + this.moedaRequerida + "]");
     }
 
 }

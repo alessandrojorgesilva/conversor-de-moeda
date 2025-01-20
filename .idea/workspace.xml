@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e134259e-3e21-44b5-88b0-36ef60134024" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/conversormoeda/util/ValidaNumero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/conversormoeda/conversaomoeda/ConverteMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/conversormoeda/conversaomoeda/ConverteMoeda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/alura/conversormoeda/principal/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/conversormoeda/principal/Principal.java" afterDir="false" />
@@ -26,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -44,7 +46,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/KeilaeJorge/Documents/one/spring/api",
+    "last_opened_file_path": "C:/Users/KeilaeJorge/Desktop/conversor-de-moeda-main",
     "onboarding.tips.debug.path": "C:/Users/KeilaeJorge/Documents/one/conversormoeda/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",

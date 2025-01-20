@@ -11,7 +11,7 @@ public class Principal {
         String opcao = "1";
         Scanner leitura = new Scanner(System.in);
         String menu = """
-                **********************************************
+                *******************************************************
                 Sejam bem-vindo/a ao Conversor de Moeda:
                 1) Dólar ==> Real
                 2) Real ==> Dólar
@@ -27,15 +27,15 @@ public class Principal {
                 12) Peso Argentino ==> Real
                 13) Real ==> Peso Colombiano
                 14) Peso Colombiano ==> Real                
-                15) Sair
-                **********************************************
+                15) Sair                
                 Escolha uma opção válida:
+                *******************************************************
                 """;
 
         System.out.println(menu);
         opcao = leitura.nextLine();
         while(!ValidaNumero.isNumero(String.valueOf(opcao))){
-            System.out.println("Escolha uma opção válida (1 a 15):git");
+            System.out.println("Escolha uma opção válida (1 a 15):");
             opcao = leitura.nextLine();
         }
 
