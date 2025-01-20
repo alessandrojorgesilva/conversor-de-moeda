@@ -36,7 +36,7 @@ A interação com o usuário é textual, via console, e o menu disponibiliza 14 
 
 <div align="center">
 
-https://github.com/user-attachments/assets/80686504-2013-4b41-be54-0c931ecca43f
+![Video_250120114922 (3)](https://github.com/user-attachments/assets/cfcec4fe-7b23-4ace-96a4-1c617dd1c658)
 
 </div>
 
