@@ -55,6 +55,10 @@ Você pode [acessar o código fonte do projeto](https://github.com/alessandrojor
 3. [Acesse o site da api ExchangeRate-API](https://www.exchangerate-api.com/) para ter acesso a sua  API Key gratuitamente.
 4. **Crie uma variável de ambiente com o nome EXCHANGERATE_APIKEY e o valor será a sua API Key.**
 
+## 📜 Licença
+
+Este projeto está licenciado sob os termos da [MIT License](LICENSE), permitindo que você o use, modifique e distribua à vontade.
+
 
 
 
